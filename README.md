@@ -45,7 +45,7 @@
 | [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/forex-volatility-forecasting) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 15-min high-frequency Forex data — GARCH vs XGBoost on MT5 data Final year project (19/20 🏆) |
 | [🧠 EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Facial emotion recognition deployed on HuggingFace Hub with real-time webcam |
 | [⚽ ScoutVision AI](https://github.com/MedAmirSoltani/scoutvision-ai) | Random Forest · XGBoost · LLaMA · Flask | AI football scouting — player rating & value prediction + LLM scout assistant |
-| [🛡️ Network Traffic Classifier](https://github.com/MedAmirSoltani/network-traffic-classifier) | MLP · PCA · Scaler · Streamlit | Classifies network traffic as heavy or not using packet burst statistics — CSV upload or manual entry |
+| [🛡️ Network Traffic Classifier](https://github.com/MedAmirSoltani/network-traffic-classifier) | MLP · PCA · Scaler · Streamlit | Classifies network traffic as heavy or not using packet burst statistics |
 
 ---
 
