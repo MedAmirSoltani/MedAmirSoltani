@@ -4,7 +4,7 @@
 
 - 🎓 Triple diploma Bac+6 — UTT Mastère Spécialisé · PST&B Mastère · ESPRIT Diplôme d'Ingénieur IA
 - 🤖 Building RAG pipelines, agentic AI & document automation systems in production
-- 📊 4.57M tweets, 20yr Forex series, real CV documents — I work on real data
+- 📊 4.57M tweets, high-frequency Forex data, real CV documents — I work on real data
 - 🌍 Bilingual FR/EN · Arabic native · Based in Paris
 
 ---
