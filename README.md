@@ -42,11 +42,10 @@
 | Project | Stack | What it does |
 |---|---|---|
 | [⚽ Four Days That Shook the World](https://github.com/MedAmirSoltani/world-cup-nlp-2018) | BERTopic · XLM-RoBERTa · Groq · Polars | NLP analysis of 4.57M World Cup tweets — multilingual sentiment, viral moments, LLM narration |
-| [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/forex-volatility-forecasting) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 20yr 15-min data — XGBoost cuts MAPE by 50% out-of-sample |
+| [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on MT5 data — Final year project (19/20 🏆) |
 | [🧠 EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Facial emotion recognition deployed on HuggingFace Hub with real-time webcam |
 | [⚽ ScoutVision AI](https://github.com/MedAmirSoltani/scoutvision-ai) | Random Forest · XGBoost · LLaMA · Flask | AI football scouting — player rating & value prediction + LLM scout assistant |
-| [🏦 Financial AI Platform](https://github.com/MedAmirSoltani) | Django · Dash · Azure ML · MLOps | Final year project (19/20 🏆) — investment chatbot, volatility prediction, live trading |
-
+| [🛡️ Network Traffic Classifier](https://github.com/MedAmirSoltani/network-traffic-classifier) | MLP · PCA · Scaler · Streamlit | Classifies network traffic as heavy or not using packet burst statistics |
 ---
 
 ### 📜 Certifications
@@ -61,4 +60,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedamirsoltani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://medamirsoltani.github.io)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Amirsoltani21)
