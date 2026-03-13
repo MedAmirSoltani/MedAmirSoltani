@@ -42,7 +42,7 @@
 | Project | Stack | What it does |
 |---|---|---|
 | [⚽ Four Days That Shook the World](https://github.com/MedAmirSoltani/world-cup-nlp-2018) | BERTopic · XLM-RoBERTa · Groq · Polars | NLP analysis of 4.57M World Cup tweets — multilingual sentiment, viral moments, LLM narration |
-| [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on MT5 data — Final year project (19/20 🏆) |
+| [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on MT5 data Final year project (19/20 🏆) |
 | [🧠 EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Facial emotion recognition deployed on HuggingFace Hub with real-time webcam |
 | [⚽ ScoutVision AI](https://github.com/MedAmirSoltani/scoutvision-ai) | Random Forest · XGBoost · LLaMA · Flask | AI football scouting — player rating & value prediction + LLM scout assistant |
 | [🛡️ Network Traffic Classifier](https://github.com/MedAmirSoltani/network-traffic-classifier) | MLP · PCA · Scaler · Streamlit | Classifies network traffic as heavy or not using packet burst statistics |
