@@ -36,7 +36,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
 ### 🚀 Featured Projects
 
 | Project | Stack | What it does |
@@ -45,8 +44,9 @@
 | [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 15-min high-frequency Forex data — Final year project (19/20 🏆) |
 | [🧠 EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Facial emotion recognition deployed on HuggingFace Hub with real-time webcam |
 | [⚽ ScoutVision AI](https://github.com/MedAmirSoltani/scoutvision-ai) | Random Forest · XGBoost · LLaMA · Flask | AI football scouting — player rating & value prediction + LLM scout assistant |
+| [🔌 Littelfuse Switch Selector AI](https://github.com/MedAmirSoltani/littelfuse-switch-ai) | Flask · ChromaDB · Claude API · RAG | Natural language switch selector — semantic search over full Littelfuse catalog with AI recommendation |
+| [🏥 GenMed Virtual Patient Generator](https://github.com/MedAmirSoltani/genmed-virtual-patient) | GAN · LLaMA · MIT-BIH · Flask | Synthetic patient generator — ECG generation via GAN + coherent clinical data + LLM clinical notes |
 | [🛡️ Network Traffic Classifier](https://github.com/MedAmirSoltani/network-traffic-classifier) | MLP · PCA · Scaler · Streamlit | Classifies network traffic as heavy or not using packet burst statistics |
-
 ---
 
 ### 📜 Certifications
