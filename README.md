@@ -42,11 +42,11 @@
 |---|---|---|
 | [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 15-min high-frequency Forex data — Final year project (19/20 🏆) |
 | [⚽ Four Days That Shook the World](https://github.com/MedAmirSoltani/world-cup-nlp-2018) | BERTopic · XLM-RoBERTa · Groq · Polars | NLP analysis of 4.57M World Cup tweets — multilingual sentiment, viral moments, LLM narration |
+| [📚 StudyMate API](https://github.com/MedAmirSoltani/studymate-api) | FastAPI · ChromaDB · Docker · K8s · GitHub Actions | Production-grade RAG API — upload PDFs, ask questions, full LLMOps stack with CI/CD and Kubernetes |
 | [🧠 EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Facial emotion recognition deployed on HuggingFace Hub with real-time webcam |
 | [🏥 GenMed Virtual Patient Generator](https://github.com/MedAmirSoltani/genmed-virtual-patient) | GAN · LLaMA · MIT-BIH · Flask | Synthetic patient generator — ECG generation via GAN + coherent clinical data + LLM clinical notes |
 | [🔗 Trustworthy Agentic Control (O-RAN)](https://github.com/MedAmirSoltani/trustworthy-oran-dt-agent) | DQN · CUSUM · FedAvg · PyTorch | Safe RL agents controlling O-RAN slices through an imperfect Digital Twin — drift detection, causal tagging, federated coordination |
 | [🔌 Littelfuse Switch Selector AI](https://github.com/MedAmirSoltani/littelfuse-switch-ai) | Flask · ChromaDB · Claude API · RAG | Natural language switch selector — semantic search over full Littelfuse catalog with AI recommendation |
-| [🛡️ Network Traffic Classifier](https://github.com/MedAmirSoltani/network-traffic-classifier) | MLP · PCA · Scaler · Streamlit | Classifies network traffic as heavy or not using packet burst statistics |
 ---
 
 ### 📜 Certifications
