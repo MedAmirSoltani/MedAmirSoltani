@@ -46,7 +46,7 @@
 | [🧠 EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Facial emotion recognition deployed on HuggingFace Hub with real-time webcam |
 | [🏥 GenMed Virtual Patient Generator](https://github.com/MedAmirSoltani/genmed-virtual-patient) | GAN · LLaMA · MIT-BIH · Flask | Synthetic patient generator — ECG generation via GAN + coherent clinical data + LLM clinical notes |
 | [🔗 Trustworthy Agentic Control (O-RAN)](https://github.com/MedAmirSoltani/trustworthy-oran-dt-agent) | DQN · CUSUM · FedAvg · PyTorch | Safe RL agents controlling O-RAN slices through an imperfect Digital Twin — drift detection, causal tagging, federated coordination |
-| [🏭 Frugal Digital Twin](https://github.com/MedAmirSoltani/frugal-digital-twin) | NumPy · Kalman Filter · Matplotlib | Frugal data governance for industrial digital twins — event-triggered sampling, wireless channel simulation, uncertainty quantification and anomaly detection |
+| [🏭 Frugal Digital Twin](https://github.com/MedAmirSoltani/frugal-digital-twin) | NumPy · Kalman Filter · Matplotlib | Event-triggered sampling + Kalman uncertainty quantification for industrial digital twins — 90.8% bandwidth saved |
 ---
 
 ### 📜 Certifications
