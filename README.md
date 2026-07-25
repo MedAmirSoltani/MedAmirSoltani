@@ -41,13 +41,13 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 15-min high-frequency Forex data — Final year project (19/20 🏆) |
-| [⚽ Four Days That Shook the World](https://github.com/MedAmirSoltani/world-cup-nlp-2018) | BERTopic · XLM-RoBERTa · Groq · Polars | NLP analysis of 4.57M World Cup tweets — multilingual sentiment, viral moments, LLM narration |
-| [📚 StudyMate API](https://github.com/MedAmirSoltani/studymate-api) | FastAPI · ChromaDB · Docker · K8s · GitHub Actions | Production-grade RAG API — upload PDFs, ask questions, full LLMOps stack with CI/CD and Kubernetes |
-| [🧠 EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Facial emotion recognition deployed on HuggingFace Hub with real-time webcam |
-| [🏥 GenMed Virtual Patient Generator](https://github.com/MedAmirSoltani/genmed-virtual-patient) | GAN · LLaMA · MIT-BIH · Flask | Synthetic patient generator — ECG generation via GAN + coherent clinical data + LLM clinical notes |
-| [📡 Trustworthy Agentic Control (O-RAN)](https://github.com/MedAmirSoltani/trustworthy-oran-dt-agent) | DQN · CUSUM · FedAvg · PyTorch | Safe RL agents controlling O-RAN slices through an imperfect Digital Twin — drift detection, causal tagging, federated coordination |
-| [🏭 Frugal Digital Twin](https://github.com/MedAmirSoltani/frugal-digital-twin) | NumPy · Kalman Filter · Matplotlib | Event-triggered sampling + Kalman uncertainty quantification for industrial digital twins — 90.8% bandwidth saved |
+| [📡 Trustworthy Agentic Control (O-RAN)](https://github.com/MedAmirSoltani/trustworthy-oran-dt-agent) | DQN · CUSUM · FedAvg · PyTorch | Safe RL agents controlling O-RAN network slices through an imperfect Digital Twin — drift detection, causal tagging, federated coordination |
+| [🔶 Orange Business Model Intelligence](https://github.com/MedAmirSoltani/orange-business-model-intelligence) | OWL · RDF · GraphRAG · Claude API · Flask | Ontology-powered knowledge graph — extracts business intelligence from documents and answers strategic questions via LLM reasoning |
+| [🏥 GenMed Virtual Patient Generator](https://github.com/MedAmirSoltani/genmed-virtual-patient) | GAN · LLaMA · MIT-BIH · Flask | Synthetic medical data generator — ECG signals via GAN + coherent clinical records + LLM-generated clinical notes |
+| [⚽ Four Days That Shook the World](https://github.com/MedAmirSoltani/world-cup-nlp-2018) | BERTopic · XLM-RoBERTa · Groq · Polars | NLP analysis of 4.57M World Cup tweets — multilingual sentiment, viral moment detection, LLM narration |
+| [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 15-min high-frequency Forex data — Engineering final year project (19/20 🏆) |
+| [🏭 Frugal Digital Twin](https://github.com/MedAmirSoltani/frugal-digital-twin) | NumPy · Kalman Filter · Matplotlib | Industrial digital twin with 90.8% bandwidth reduction — event-triggered sampling with Kalman uncertainty quantification |
+| [👁️ EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Real-time facial emotion recognition — fine-tuned VGG19 on FER2013, deployed on HuggingFace Hub with live webcam inference |
 ---
 
 ### 📜 Certifications
