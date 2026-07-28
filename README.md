@@ -13,31 +13,38 @@
 
 **Data & AI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow"/>
+</p>
 
 **Frameworks & Apps**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-017CEE?style=flat&logo=plotly&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Dash-017CEE?style=flat&logo=plotly&logoColor=white" alt="Dash"/>
+</p>
 
 **Cloud & DevOps**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white" alt="OVHcloud"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
+
 ### 🚀 Featured Projects
 
 | Project | Stack | What it does |
@@ -49,6 +56,7 @@
 | [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 15-min high-frequency Forex data — Engineering final year project (19/20 🏆) |
 | [🏭 Frugal Digital Twin](https://github.com/MedAmirSoltani/frugal-digital-twin) | NumPy · Kalman Filter · Matplotlib | Industrial digital twin with 90.8% bandwidth reduction — event-triggered sampling with Kalman uncertainty quantification |
 | [👁️ EmotionLens™](https://github.com/MedAmirSoltani/emotion-detection) | VGG19 · FER2013 · HuggingFace · Streamlit | Real-time facial emotion recognition — fine-tuned VGG19 on FER2013, deployed on HuggingFace Hub with live webcam inference |
+
 ---
 
 ### 📜 Certifications
@@ -68,5 +76,7 @@
 
 ### 📬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedamirsoltani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://medamirsoltani.github.io)
+<p>
+<a href="https://linkedin.com/in/mohamedamirsoltani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medamirsoltani.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+</p>
