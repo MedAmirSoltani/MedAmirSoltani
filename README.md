@@ -43,7 +43,7 @@
 | Project | Stack | What it does |
 |---|---|---|
 | [📡 Trustworthy Agentic Control (O-RAN)](https://github.com/MedAmirSoltani/trustworthy-oran-dt-agent) | DQN · CUSUM · FedAvg · PyTorch | Safe RL agents controlling O-RAN network slices through an imperfect Digital Twin — drift detection, causal tagging, federated coordination |
-| [🔶 Orange Business Model Intelligence](https://github.com/MedAmirSoltani/orange-business-model-intelligence) | OWL · RDF · GraphRAG · Claude API · Flask | Ontology-powered knowledge graph — extracts business intelligence from documents and answers strategic questions via LLM reasoning |
+| [🔶 Business Model Intelligence](https://github.com/MedAmirSoltani/orange-business-model-intelligence) | OWL · RDF · GraphRAG · Claude API · Flask | Ontology-powered knowledge graph — extracts business intelligence from documents and answers strategic questions via LLM reasoning |
 | [🏥 GenMed Virtual Patient Generator](https://github.com/MedAmirSoltani/genmed-virtual-patient) | GAN · LLaMA · MIT-BIH · Flask | Synthetic medical data generator — ECG signals via GAN + coherent clinical records + LLM-generated clinical notes |
 | [⚽ Four Days That Shook the World](https://github.com/MedAmirSoltani/world-cup-nlp-2018) | BERTopic · XLM-RoBERTa · Groq · Polars | NLP analysis of 4.57M World Cup tweets — multilingual sentiment, viral moment detection, LLM narration |
 | [📈 Forex Volatility Forecasting](https://github.com/MedAmirSoltani/Volatility-Capstone) | GARCH · XGBoost · MT5 · Django | GARCH vs XGBoost on 15-min high-frequency Forex data — Engineering final year project (19/20 🏆) |
