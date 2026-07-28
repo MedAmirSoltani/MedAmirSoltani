@@ -13,15 +13,15 @@
 
 **Data & AI**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white" alt="ChromaDB"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow"/>
+<table><tr><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></td><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></td><td><img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white"/></td><td><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></td><td><img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat&logo=databricks&logoColor=white"/></td><td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/></td><td><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/></td></tr></table>
 
 **Frameworks & Apps**
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/Dash-017CEE?style=flat&logo=plotly&logoColor=white" alt="Dash"/>
+<table><tr><td><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/></td><td><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></td><td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></td><td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></td><td><img src="https://img.shields.io/badge/Dash-017CEE?style=flat&logo=plotly&logoColor=white"/></td></tr></table>
 
 **Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white" alt="OVHcloud"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+<table><tr><td><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/></td><td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/></td><td><img src="https://img.shields.io/badge/OVHcloud-123F6D?style=flat&logo=ovh&logoColor=white"/></td><td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></td></tr></table>
 
 ---
 
@@ -56,4 +56,4 @@
 
 ### 📬 Let's connect
 
-<a href="https://linkedin.com/in/mohamedamirsoltani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://medamirsoltani.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<table><tr><td><a href="https://linkedin.com/in/mohamedamirsoltani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a></td><td><a href="https://medamirsoltani.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"/></a></td></tr></table>
